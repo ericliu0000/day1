@@ -357,7 +357,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond2"]
@@ -372,7 +371,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond"]
@@ -387,7 +385,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond3"]
@@ -402,7 +400,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond4"]
@@ -417,7 +415,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond5"]
@@ -432,7 +430,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond6"]
@@ -447,6 +445,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond7"]
@@ -461,6 +460,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond8"]
@@ -475,7 +475,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond9"]
@@ -490,7 +490,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond10"]
@@ -505,6 +505,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond11"]
@@ -519,6 +520,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond12"]
@@ -533,7 +535,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond13"]
@@ -548,7 +550,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond14"]
@@ -563,6 +565,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond15"]
@@ -577,6 +580,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond16"]
@@ -591,6 +595,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond17"]
@@ -605,6 +610,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond18"]
@@ -619,7 +625,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond19"]
@@ -634,7 +640,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond20"]
@@ -649,6 +655,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond21"]
@@ -663,6 +670,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond22"]
@@ -677,7 +685,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond23"]
@@ -692,7 +700,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond24"]
@@ -707,7 +715,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond25"]
@@ -722,7 +730,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond26"]
@@ -737,7 +745,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond27"]
@@ -752,7 +760,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond28"]
@@ -767,7 +775,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond29"]
@@ -782,7 +790,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond30"]
@@ -797,7 +805,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond31"]
@@ -812,7 +820,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond32"]
@@ -827,7 +835,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond33"]
@@ -842,7 +850,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond34"]
@@ -857,7 +865,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond35"]
@@ -872,7 +879,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond36"]
@@ -887,7 +893,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond37"]
@@ -902,7 +908,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond38"]
@@ -917,7 +923,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond39"]
@@ -932,7 +937,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond40"]
@@ -947,6 +951,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond41"]
@@ -961,7 +966,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond42"]
@@ -976,6 +980,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond43"]
@@ -990,6 +995,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond44"]
@@ -1004,6 +1010,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond45"]
@@ -1018,6 +1025,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond46"]
@@ -1032,7 +1040,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond47"]
@@ -1047,7 +1055,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond48"]
@@ -1062,6 +1070,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond49"]
@@ -1076,6 +1085,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond50"]
@@ -1090,7 +1100,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond51"]
@@ -1105,7 +1115,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond52"]
@@ -1120,6 +1130,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond53"]
@@ -1134,6 +1145,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond54"]
@@ -1148,7 +1160,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond55"]
@@ -1163,7 +1175,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond56"]
@@ -1178,7 +1190,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond57"]
@@ -1193,7 +1205,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond58"]
@@ -1208,7 +1220,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond59"]
@@ -1223,7 +1235,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond60"]
@@ -1238,7 +1250,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond61"]
@@ -1253,7 +1265,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond62"]
@@ -1268,7 +1280,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond63"]
@@ -1283,7 +1295,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond64"]
@@ -1298,7 +1310,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond65"]
@@ -1313,7 +1325,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond66"]
@@ -1328,7 +1340,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond67"]
@@ -1343,7 +1355,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond68"]
@@ -1358,7 +1370,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond69"]
@@ -1373,7 +1385,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond70"]
@@ -1388,7 +1400,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond71"]
@@ -1403,7 +1415,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond72"]
@@ -1418,7 +1430,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond73"]
@@ -1433,7 +1445,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond74"]
@@ -1448,7 +1460,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond75"]
@@ -1463,7 +1474,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond76"]
@@ -1478,7 +1488,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond77"]
@@ -1493,7 +1503,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond78"]
@@ -1508,7 +1518,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond79"]
@@ -1523,7 +1532,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond80"]
@@ -1538,7 +1546,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond81"]
@@ -1553,7 +1561,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond82"]
@@ -1568,7 +1576,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond83"]
@@ -1583,7 +1591,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond84"]
@@ -1598,7 +1606,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond85"]
@@ -1613,7 +1621,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond86"]
@@ -1628,6 +1636,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond87"]
@@ -1642,6 +1651,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond88"]
@@ -1656,7 +1666,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond89"]
@@ -1671,7 +1681,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond90"]
@@ -1686,6 +1696,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond91"]
@@ -1700,6 +1711,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond92"]
@@ -1714,7 +1726,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond93"]
@@ -1729,7 +1741,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond94"]
@@ -1744,6 +1756,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond95"]
@@ -1758,6 +1771,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond96"]
@@ -1772,6 +1786,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond97"]
@@ -1786,6 +1801,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond98"]
@@ -1800,7 +1816,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond99"]
@@ -1815,7 +1831,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond100"]
@@ -1830,6 +1846,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond101"]
@@ -1844,6 +1861,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond102"]
@@ -1858,7 +1876,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond103"]
@@ -1873,7 +1891,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond104"]
@@ -1888,7 +1906,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond105"]
@@ -1903,7 +1921,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond106"]
@@ -1918,7 +1936,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond107"]
@@ -1933,7 +1950,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond108"]
@@ -1948,7 +1964,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond109"]
@@ -1963,7 +1979,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond110"]
@@ -1978,7 +1994,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond111"]
@@ -1993,7 +2008,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond112"]
@@ -2008,7 +2022,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond113"]
@@ -2023,7 +2037,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond114"]
@@ -2038,7 +2052,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond115"]
@@ -2053,7 +2066,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond116"]
@@ -2068,7 +2080,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond117"]
@@ -2083,7 +2095,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond118"]
@@ -2098,7 +2110,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond119"]
@@ -2113,7 +2124,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond120"]
@@ -2128,6 +2138,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond121"]
@@ -2142,7 +2153,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond122"]
@@ -2157,6 +2168,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond123"]
@@ -2171,6 +2183,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond124"]
@@ -2185,6 +2198,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond125"]
@@ -2199,6 +2213,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond126"]
@@ -2213,7 +2228,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond127"]
@@ -2228,7 +2243,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond128"]
@@ -2243,6 +2258,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond129"]
@@ -2257,6 +2273,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond130"]
@@ -2271,7 +2288,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond131"]
@@ -2286,7 +2303,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond132"]
@@ -2301,6 +2318,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond133"]
@@ -2315,6 +2333,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond134"]
@@ -2329,7 +2348,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond135"]
@@ -2344,7 +2363,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond136"]
@@ -2359,7 +2378,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond137"]
@@ -2374,7 +2393,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond138"]
@@ -2389,7 +2408,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond139"]
@@ -2404,7 +2422,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond140"]
@@ -2419,7 +2436,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond141"]
@@ -2434,7 +2451,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond142"]
@@ -2449,7 +2466,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond143"]
@@ -2464,7 +2480,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond144"]
@@ -2479,7 +2494,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond145"]
@@ -2494,7 +2509,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond146"]
@@ -2509,7 +2524,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond147"]
@@ -2524,7 +2538,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond148"]
@@ -2539,7 +2552,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond149"]
@@ -2554,7 +2567,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond150"]
@@ -2569,7 +2582,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond151"]
@@ -2584,7 +2596,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond152"]
@@ -2599,7 +2610,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond153"]
@@ -2614,7 +2624,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond154"]
@@ -2629,7 +2638,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond155"]
@@ -2644,7 +2653,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond156"]
@@ -2659,7 +2668,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond157"]
@@ -2674,7 +2682,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond158"]
@@ -2689,7 +2696,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond159"]
@@ -2704,7 +2711,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond160"]
@@ -2719,6 +2726,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond161"]
@@ -2733,7 +2741,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond162"]
@@ -2748,6 +2755,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond163"]
@@ -2762,6 +2770,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond164"]
@@ -2776,6 +2785,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond165"]
@@ -2790,6 +2800,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond166"]
@@ -2804,7 +2815,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond167"]
@@ -2819,7 +2830,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond168"]
@@ -2834,6 +2845,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond169"]
@@ -2848,6 +2860,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond170"]
@@ -2862,7 +2875,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond171"]
@@ -2877,7 +2890,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond172"]
@@ -2892,6 +2905,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond173"]
@@ -2906,6 +2920,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond174"]
@@ -2920,7 +2935,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond175"]
@@ -2935,7 +2950,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond176"]
@@ -2950,7 +2965,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond177"]
@@ -2965,7 +2980,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond178"]
@@ -2980,7 +2995,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond179"]
@@ -2995,7 +3010,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond180"]
@@ -3010,7 +3025,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond181"]
@@ -3025,7 +3040,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond182"]
@@ -3040,7 +3055,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond183"]
@@ -3055,7 +3070,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond184"]
@@ -3070,7 +3085,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond185"]
@@ -3085,7 +3100,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond186"]
@@ -3100,7 +3115,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond187"]
@@ -3115,7 +3130,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond188"]
@@ -3130,7 +3145,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond189"]
@@ -3145,7 +3160,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond190"]
@@ -3160,7 +3175,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond191"]
@@ -3175,7 +3190,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond192"]
@@ -3190,7 +3205,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond193"]
@@ -3205,7 +3220,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond194"]
@@ -3220,7 +3235,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond195"]
@@ -3235,7 +3249,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond196"]
@@ -3250,7 +3263,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond197"]
@@ -3265,7 +3278,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond198"]
@@ -3280,7 +3293,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond199"]
@@ -3295,7 +3307,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond200"]
@@ -3310,6 +3321,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond201"]
@@ -3324,7 +3336,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond202"]
@@ -3339,6 +3350,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond203"]
@@ -3353,6 +3365,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond204"]
@@ -3367,6 +3380,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond205"]
@@ -3381,6 +3395,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond206"]
@@ -3395,7 +3410,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond207"]
@@ -3410,7 +3425,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond208"]
@@ -3425,6 +3440,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond209"]
@@ -3439,6 +3455,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond210"]
@@ -3453,7 +3470,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond211"]
@@ -3468,7 +3485,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond212"]
@@ -3483,6 +3500,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond213"]
@@ -3497,6 +3515,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond214"]
@@ -3511,7 +3530,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond215"]
@@ -3526,7 +3545,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond216"]
@@ -3541,7 +3560,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond217"]
@@ -3556,7 +3575,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond218"]
@@ -3571,7 +3590,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond219"]
@@ -3586,7 +3605,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond220"]
@@ -3601,7 +3620,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond221"]
@@ -3616,7 +3635,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond222"]
@@ -3631,7 +3650,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond223"]
@@ -3646,7 +3665,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond224"]
@@ -3661,7 +3680,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond225"]
@@ -3676,7 +3695,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond226"]
@@ -3691,7 +3710,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond227"]
@@ -3706,7 +3725,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond228"]
@@ -3721,7 +3740,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond229"]
@@ -3736,7 +3755,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond230"]
@@ -3751,7 +3770,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond231"]
@@ -3766,7 +3785,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond232"]
@@ -3781,7 +3800,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond233"]
@@ -3796,7 +3815,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond234"]
@@ -3811,7 +3830,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond235"]
@@ -3826,7 +3844,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond236"]
@@ -3841,7 +3858,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond237"]
@@ -3856,7 +3873,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond238"]
@@ -3871,7 +3888,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond239"]
@@ -3886,7 +3902,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond240"]
@@ -3901,6 +3916,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond241"]
@@ -3915,6 +3931,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond242"]
@@ -3929,6 +3946,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond243"]
@@ -3943,6 +3961,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond244"]
@@ -3957,6 +3976,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond245"]
@@ -3971,6 +3991,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond246"]
@@ -3985,7 +4006,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond247"]
@@ -4000,7 +4021,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond248"]
@@ -4015,6 +4036,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond249"]
@@ -4029,6 +4051,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond250"]
@@ -4043,7 +4066,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond251"]
@@ -4058,7 +4081,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond252"]
@@ -4073,6 +4096,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond253"]
@@ -4087,6 +4111,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond254"]
@@ -4101,7 +4126,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond255"]
@@ -4116,7 +4141,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond256"]
@@ -4131,7 +4156,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond257"]
@@ -4146,7 +4171,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond258"]
@@ -4161,7 +4186,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond259"]
@@ -4176,7 +4201,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond260"]
@@ -4191,7 +4216,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond261"]
@@ -4206,7 +4231,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond262"]
@@ -4221,7 +4246,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond263"]
@@ -4236,7 +4261,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond264"]
@@ -4251,7 +4276,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond265"]
@@ -4266,7 +4291,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond266"]
@@ -4281,7 +4306,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond267"]
@@ -4296,7 +4320,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond268"]
@@ -4311,7 +4334,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond269"]
@@ -4326,7 +4349,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond270"]
@@ -4341,7 +4364,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond271"]
@@ -4356,7 +4378,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond272"]
@@ -4371,7 +4392,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond273"]
@@ -4386,7 +4407,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond274"]
@@ -4401,7 +4422,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond275"]
@@ -4416,7 +4436,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond276"]
@@ -4431,7 +4450,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond277"]
@@ -4446,7 +4465,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond278"]
@@ -4461,7 +4480,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond279"]
@@ -4476,7 +4494,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond280"]
@@ -4491,7 +4508,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond281"]
@@ -4506,6 +4523,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond282"]
@@ -4520,7 +4538,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond283"]
@@ -4535,7 +4553,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond284"]
@@ -4550,7 +4568,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond285"]
@@ -4565,7 +4583,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond286"]
@@ -4580,7 +4598,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond287"]
@@ -4595,7 +4613,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond288"]
@@ -4610,7 +4628,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond289"]
@@ -4625,7 +4643,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond290"]
@@ -4640,7 +4658,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond291"]
@@ -4655,7 +4673,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond292"]
@@ -4670,7 +4688,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond293"]
@@ -4685,7 +4703,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 3
+frame = 2
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond294"]
@@ -4700,7 +4718,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond295"]
@@ -4715,7 +4733,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond296"]
@@ -4730,7 +4748,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond297"]
@@ -4745,7 +4763,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond298"]
@@ -4760,7 +4778,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond299"]
@@ -4775,7 +4792,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond300"]
@@ -4790,7 +4806,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond301"]
@@ -4805,7 +4821,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond302"]
@@ -4820,7 +4836,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond303"]
@@ -4835,7 +4850,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond304"]
@@ -4850,7 +4864,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond305"]
@@ -4865,7 +4879,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond306"]
@@ -4880,7 +4894,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond307"]
@@ -4895,7 +4908,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond308"]
@@ -4910,7 +4922,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond309"]
@@ -4925,7 +4937,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 2
+frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond310"]
@@ -4940,7 +4952,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond311"]
@@ -4955,7 +4966,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond312"]
@@ -4970,7 +4980,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond313"]
@@ -4985,7 +4994,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond314"]
@@ -5000,6 +5008,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond315"]
@@ -5014,6 +5023,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond316"]
@@ -5028,7 +5038,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond317"]
@@ -5043,7 +5052,6 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
-frame = 1
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond318"]
@@ -5058,6 +5066,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond319"]
@@ -5072,6 +5081,7 @@ script = ExtResource( 10 )
 position = Vector2( 298.036, 479.944 )
 frames = SubResource( 30 )
 animation = "coin_hehe"
+frame = 3
 playing = true
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Node2D/hamond320"]
