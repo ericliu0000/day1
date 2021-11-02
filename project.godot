@@ -22,6 +22,14 @@ window/dpi/allow_hidpi=true
 window/stretch/mode="2d"
 window/stretch/aspect="keep"
 
+[layer_names]
+
+2d_physics/layer_1="environetmenret"
+2d_physics/layer_2="player"
+2d_physics/layer_3="emeny"
+2d_physics/layer_4="playerhurtbox"
+2d_physics/layer_5="enemetyhutrbxo"
+
 [physics]
 
 common/enable_pause_aware_picking=true
